@@ -1,10 +1,11 @@
-Name,age,experience,Salary
-Krish,31,10,30000
-Sudhanshu,30,8,25000
-Sunny,29,4,20000
-Paul,24,3,20000
-harsha,21,1,15000
-Shubham,23,2,18000
-mahesh,,,40000
-,34,10,38000
-,36,,
+Name,Departments,Salary
+Krish,Data science,10000
+Krish,Iot,5000
+mahesh,Big data,4000
+Krish,Big data,4000
+mahesh,Data science,3000
+Sudhanshu,Data science,20000
+Sudhanshu,Iot,10000
+Sudhanshu,Big data,5000
+Sunny,Data science,10000
+Sunny,Big data,2000
